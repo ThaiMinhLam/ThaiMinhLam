@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Machine Reading Comprehension with Explanation**
 
-- 🌱 I’m currently learning **Pytorch, Spark**
+- 🌱 I’m currently learning **Pytorch, Question-Answering, Reasoning**
 
 - 📫 How to reach me: **thaiminhlam1177@gmail.com**
 
